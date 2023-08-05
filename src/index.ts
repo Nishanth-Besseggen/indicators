@@ -1,2 +1,2 @@
-export { Indicators } from "./core/indicators"
-export { IndicatorsNormalized } from "./core/indicatorsNormalized"
+export * from "./core/indicators"
+// export * from "./core/indicatorsNormalized"
